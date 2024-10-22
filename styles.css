@@ -1,0 +1,10 @@
+@import url("styles/header.css");
+
+:root {
+    --cor-de-fundo: #a224e0;
+    --roxo: #b515c4;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
